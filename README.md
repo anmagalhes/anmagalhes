@@ -3,10 +3,9 @@
 #### Apaixonado por tecnologia! ❤️
 
 <div align="center">
-  <a href="https://github.com/anmagalhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmagalhaes&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <a href="https://github.com/anmagalhes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmagalhes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmagalhes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -48,4 +47,4 @@
 
 ### Em contínua evolução 📈
 
-![Snake animation](https://github.com/anmagalhaes/anmagalhaes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/anmagalhes/anmagalhes/blob/output/github-contribution-grid-snake.svg)
