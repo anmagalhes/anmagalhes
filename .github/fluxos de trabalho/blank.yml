@@ -13,7 +13,7 @@ empregos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : anmagalhaes
+          github_user_name : anmagalhes
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
