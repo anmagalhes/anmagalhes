@@ -42,9 +42,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
 </p>
-
----
-
-### Em contínua evolução 📈
-
-  ![Snake animation](https://github.com/anmagalhes/anmagalhes/blob/output/github-contribution-grid-snake.svg)
